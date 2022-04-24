@@ -3,7 +3,7 @@ This file is used to define the properties of Locust familiars, spawned by Abyss
 
 **Resource-Folder**{: .xmlInfo .red}: Using this file in a resource folder of a mod will replace the original file.
 
-**Content-Folder**{: .xmlInfo }: Using this file in a content folder of a mod is not tested yet.
+**Content-Folder**{: .xmlInfo .green }: Using this file in a content folder of a mod will add new locusts.
 
 
 ### "color" nodes
